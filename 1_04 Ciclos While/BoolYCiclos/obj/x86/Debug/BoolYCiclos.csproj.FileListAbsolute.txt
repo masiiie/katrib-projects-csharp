@@ -1,0 +1,36 @@
+C:\Users\mkm\Documents\Cursos y Conferencias\Curso Programacion\Curso 2010-2011\Proyectos\BoolYCiclos\BoolYCiclos\bin\Debug\BoolYCiclos.exe
+C:\Users\mkm\Documents\Cursos y Conferencias\Curso Programacion\Curso 2010-2011\Proyectos\BoolYCiclos\BoolYCiclos\bin\Debug\BoolYCiclos.pdb
+C:\Users\mkm\Documents\Cursos y Conferencias\Curso Programacion\Curso 2010-2011\Proyectos\BoolYCiclos\BoolYCiclos\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mkm\Documents\Cursos y Conferencias\Curso Programacion\Curso 2010-2011\Proyectos\BoolYCiclos\BoolYCiclos\obj\x86\Debug\BoolYCiclos.exe
+C:\Users\mkm\Documents\Cursos y Conferencias\Curso Programacion\Curso 2010-2011\Proyectos\BoolYCiclos\BoolYCiclos\obj\x86\Debug\BoolYCiclos.pdb
+D:\MKM\Cursos\Curso Programacion\Curso 2011-2012\Proyectos\1_4 Ciclo While\BoolYCiclos\obj\x86\Debug\BoolYCiclos.exe
+D:\MKM\Cursos\Curso Programacion\Curso 2011-2012\Proyectos\1_4 Ciclo While\BoolYCiclos\obj\x86\Debug\BoolYCiclos.pdb
+D:\MKM\Cursos\Curso Programacion\Curso 2011-2012\Proyectos\1_4 Ciclo While\BoolYCiclos\bin\Debug\BoolYCiclos.exe
+D:\MKM\Cursos\Curso Programacion\Curso 2011-2012\Proyectos\1_4 Ciclo While\BoolYCiclos\bin\Debug\BoolYCiclos.pdb
+D:\MKM\Cursos\Curso Programacion\Curso 2011-2012\Proyectos\1_4 Ciclo While\BoolYCiclos\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mkm\Documents\Cursos y Conferencias\Curso Programacion\Curso 2011-2012\Proyectos\1_3.2 Ciclo While\BoolYCiclos\obj\x86\Debug\BoolYCiclos.exe
+C:\Users\mkm\Documents\Cursos y Conferencias\Curso Programacion\Curso 2011-2012\Proyectos\1_3.2 Ciclo While\BoolYCiclos\obj\x86\Debug\BoolYCiclos.pdb
+C:\Users\mkm\Documents\Cursos y Conferencias\!Curso Prog\Curso 2012-2013\Proyectos\1_3 Ciclos\BoolYCiclos\obj\x86\Debug\BoolYCiclos.exe
+C:\Users\mkm\Documents\Cursos y Conferencias\!Curso Prog\Curso 2012-2013\Proyectos\1_3 Ciclos\BoolYCiclos\obj\x86\Debug\BoolYCiclos.pdb
+C:\Users\mkm\Documents\Cursos y Conferencias\!Curso Prog\Curso 2012-2013\Proyectos\1_3 Ciclos\BoolYCiclos\bin\Debug\BoolYCiclos.exe
+C:\Users\mkm\Documents\Cursos y Conferencias\!Curso Prog\Curso 2012-2013\Proyectos\1_3 Ciclos\BoolYCiclos\bin\Debug\BoolYCiclos.pdb
+C:\Users\mkm\Documents\Cursos y Conferencias\!Curso Prog\Curso 2012-2013\Proyectos\1_3 Ciclos\BoolYCiclos\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MKM\Cursos\Curso Programacion\Curso 2013-2014\Proyectos\1_4 Ciclos While\BoolYCiclos\obj\x86\Debug\BoolYCiclos.exe
+D:\MKM\Cursos\Curso Programacion\Curso 2013-2014\Proyectos\1_4 Ciclos While\BoolYCiclos\obj\x86\Debug\BoolYCiclos.pdb
+D:\MKM\Cursos\Curso Programacion\Curso 2013-2014\Proyectos\1_4 Ciclos While\BoolYCiclos\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MKM\Cursos\Curso Programacion\Curso 2013-2014\Proyectos\1_4 Ciclos While\BoolYCiclos\bin\Debug\BoolYCiclos.exe
+D:\MKM\Cursos\Curso Programacion\Curso 2013-2014\Proyectos\1_4 Ciclos While\BoolYCiclos\bin\Debug\BoolYCiclos.pdb
+C:\Users\mkm\Documents\Charlas y Cursos\Curso Programacion\Curso 2013-2014\Proyectos\1_4 Ciclos While\BoolYCiclos\obj\x86\Debug\BoolYCiclos.exe
+C:\Users\mkm\Documents\Charlas y Cursos\Curso Programacion\Curso 2013-2014\Proyectos\1_4 Ciclos While\BoolYCiclos\obj\x86\Debug\BoolYCiclos.pdb
+C:\Users\mkm\Documents\Charlas y Cursos\Curso Programacion\Curso 2013-2014\Proyectos\1_4 Ciclos While\BoolYCiclos\bin\Debug\BoolYCiclos.exe
+C:\Users\mkm\Documents\Charlas y Cursos\Curso Programacion\Curso 2013-2014\Proyectos\1_4 Ciclos While\BoolYCiclos\bin\Debug\BoolYCiclos.pdb
+C:\Users\mkm\Documents\Charlas y Cursos\Curso Programacion\Curso 2013-2014\Proyectos\1_4 Ciclos While\BoolYCiclos\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mkm\Documents\Cursos y Conferencias\!PROGRAMACION\Curso 2014-2015\Proyectos\1_04 Ciclos While\BoolYCiclos\obj\x86\Debug\BoolYCiclos.exe
+C:\Users\mkm\Documents\Cursos y Conferencias\!PROGRAMACION\Curso 2014-2015\Proyectos\1_04 Ciclos While\BoolYCiclos\obj\x86\Debug\BoolYCiclos.pdb
+C:\Users\mkm\Documents\Cursos y Conferencias\!PROGRAMACION\Curso 2014-2015\Proyectos\1_04 Ciclos While\BoolYCiclos\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mkm\Documents\Cursos y Conferencias\!PROGRAMACION\Curso 2014-2015\Proyectos\1_04 Ciclos While\BoolYCiclos\bin\Debug\BoolYCiclos.exe
+C:\Users\mkm\Documents\Cursos y Conferencias\!PROGRAMACION\Curso 2014-2015\Proyectos\1_04 Ciclos While\BoolYCiclos\bin\Debug\BoolYCiclos.pdb
+D:\USERS\MKM\Documents\Cursos y Conferencias\!PROGRAMACION\Curso 2015-2016\Proyectos\1_04 Ciclos While\BoolYCiclos\obj\x86\Debug\BoolYCiclos.exe
+D:\USERS\MKM\Documents\Cursos y Conferencias\!PROGRAMACION\Curso 2015-2016\Proyectos\1_04 Ciclos While\BoolYCiclos\obj\x86\Debug\BoolYCiclos.pdb
+D:\USERS\MKM\Documents\Cursos y Conferencias\!PROGRAMACION\Curso 2015-2016\Proyectos\1_04 Ciclos While\BoolYCiclos\bin\Debug\BoolYCiclos.exe
+D:\USERS\MKM\Documents\Cursos y Conferencias\!PROGRAMACION\Curso 2015-2016\Proyectos\1_04 Ciclos While\BoolYCiclos\bin\Debug\BoolYCiclos.pdb
