@@ -1,0 +1,32 @@
+C:\Users\mkm\Documents\Cursos y Conferencias\Curso Programacion\Curso 2010-2011\Proyectos\HelloWorld y StopWatch\HelloWorld y StopWatch\bin\Debug\HelloWorld y StopWatch.exe
+C:\Users\mkm\Documents\Cursos y Conferencias\Curso Programacion\Curso 2010-2011\Proyectos\HelloWorld y StopWatch\HelloWorld y StopWatch\bin\Debug\HelloWorld y StopWatch.pdb
+C:\Users\mkm\Documents\Cursos y Conferencias\Curso Programacion\Curso 2010-2011\Proyectos\HelloWorld y StopWatch\HelloWorld y StopWatch\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mkm\Documents\Cursos y Conferencias\Curso Programacion\Curso 2010-2011\Proyectos\HelloWorld y StopWatch\HelloWorld y StopWatch\obj\x86\Debug\HelloWorld y StopWatch.exe
+C:\Users\mkm\Documents\Cursos y Conferencias\Curso Programacion\Curso 2010-2011\Proyectos\HelloWorld y StopWatch\HelloWorld y StopWatch\obj\x86\Debug\HelloWorld y StopWatch.pdb
+C:\Users\mkm\Documents\Cursos y Conferencias\Curso Programacion\Curso 2010-2011\Proyectos\Proyecto 1_1 HelloWorld y StopWatch\HelloWorld y StopWatch\obj\x86\Debug\HelloWorld y StopWatch.exe
+C:\Users\mkm\Documents\Cursos y Conferencias\Curso Programacion\Curso 2010-2011\Proyectos\Proyecto 1_1 HelloWorld y StopWatch\HelloWorld y StopWatch\obj\x86\Debug\HelloWorld y StopWatch.pdb
+C:\Users\mkm\Documents\Cursos y Conferencias\Curso Programacion\Curso 2010-2011\Proyectos\Proyecto 1_1 HelloWorld y StopWatch\HelloWorld y StopWatch\bin\Debug\HelloWorld y StopWatch.exe
+C:\Users\mkm\Documents\Cursos y Conferencias\Curso Programacion\Curso 2010-2011\Proyectos\Proyecto 1_1 HelloWorld y StopWatch\HelloWorld y StopWatch\bin\Debug\HelloWorld y StopWatch.pdb
+C:\Users\mkm\Documents\Cursos y Conferencias\Curso Programacion\Curso 2010-2011\Proyectos\Proyecto 1_1 HelloWorld y StopWatch\HelloWorld y StopWatch\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MKM\Cursos\Curso Programacion\Curso 2010-2011\Proyectos\Proyecto 1_1 HelloWorld y StopWatch\HelloWorld y StopWatch\obj\x86\Debug\HelloWorld y StopWatch.exe
+D:\MKM\Cursos\Curso Programacion\Curso 2010-2011\Proyectos\Proyecto 1_1 HelloWorld y StopWatch\HelloWorld y StopWatch\obj\x86\Debug\HelloWorld y StopWatch.pdb
+D:\MKM\Cursos\Curso Programacion\Curso 2010-2011\Proyectos\Proyecto 1_1 HelloWorld y StopWatch\HelloWorld y StopWatch\bin\Debug\HelloWorld y StopWatch.exe
+D:\MKM\Cursos\Curso Programacion\Curso 2010-2011\Proyectos\Proyecto 1_1 HelloWorld y StopWatch\HelloWorld y StopWatch\bin\Debug\HelloWorld y StopWatch.pdb
+D:\MKM\Cursos\Curso Programacion\Curso 2010-2011\Proyectos\Proyecto 1_1 HelloWorld y StopWatch\HelloWorld y StopWatch\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mkm\Documents\Cursos y Conferencias\Curso Programacion\Curso 2011-2012\Proyectos\1_1 HelloWorld y StopWatch\HelloWorld y StopWatch\obj\x86\Debug\HelloWorld y StopWatch.exe
+C:\Users\mkm\Documents\Cursos y Conferencias\Curso Programacion\Curso 2011-2012\Proyectos\1_1 HelloWorld y StopWatch\HelloWorld y StopWatch\obj\x86\Debug\HelloWorld y StopWatch.pdb
+C:\Users\mkm\Documents\Cursos y Conferencias\Curso Programacion\Curso 2011-2012\Proyectos\1_1 HelloWorld y StopWatch\HelloWorld y StopWatch\bin\Debug\HelloWorld y StopWatch.exe
+C:\Users\mkm\Documents\Cursos y Conferencias\Curso Programacion\Curso 2011-2012\Proyectos\1_1 HelloWorld y StopWatch\HelloWorld y StopWatch\bin\Debug\HelloWorld y StopWatch.pdb
+C:\Users\mkm\Documents\Cursos y Conferencias\Curso Programacion\Curso 2011-2012\Proyectos\1_1 HelloWorld y StopWatch\HelloWorld y StopWatch\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\PROGRAMACION\Curso 2014-2015\Proyectos\1_2 HelloWorld y StopWatch\HelloWorld y StopWatch\obj\x86\Debug\HelloWorld y StopWatch.exe
+F:\PROGRAMACION\Curso 2014-2015\Proyectos\1_2 HelloWorld y StopWatch\HelloWorld y StopWatch\obj\x86\Debug\HelloWorld y StopWatch.pdb
+F:\PROGRAMACION\Curso 2014-2015\Proyectos\1_2 HelloWorld y StopWatch\HelloWorld y StopWatch\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\PROGRAMACION\Curso 2014-2015\Proyectos\1_2 HelloWorld y StopWatch\HelloWorld y StopWatch\bin\Debug\HelloWorld y StopWatch.exe
+F:\PROGRAMACION\Curso 2014-2015\Proyectos\1_2 HelloWorld y StopWatch\HelloWorld y StopWatch\bin\Debug\HelloWorld y StopWatch.pdb
+C:\Users\mkm\Documents\Cursos y Conferencias\!PROGRAMACION\Curso 2014-2015\Proyectos\1_02 HelloWorld y StopWatch\HelloWorld y StopWatch\obj\x86\Debug\HelloWorld y StopWatch.exe
+C:\Users\mkm\Documents\Cursos y Conferencias\!PROGRAMACION\Curso 2014-2015\Proyectos\1_02 HelloWorld y StopWatch\HelloWorld y StopWatch\obj\x86\Debug\HelloWorld y StopWatch.pdb
+C:\Users\mkm\Documents\Cursos y Conferencias\!PROGRAMACION\Curso 2014-2015\Proyectos\1_02 HelloWorld y StopWatch\HelloWorld y StopWatch\bin\Debug\HelloWorld y StopWatch.exe
+C:\Users\mkm\Documents\Cursos y Conferencias\!PROGRAMACION\Curso 2014-2015\Proyectos\1_02 HelloWorld y StopWatch\HelloWorld y StopWatch\bin\Debug\HelloWorld y StopWatch.pdb
+C:\Users\mkm\Documents\Cursos y Conferencias\!PROGRAMACION\Curso 2014-2015\Proyectos\1_02 HelloWorld y StopWatch\HelloWorld y StopWatch\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\Documents\Curso 2015-2016\Proyectos\1_02 HelloWorld y StopWatch\HelloWorld y StopWatch\obj\x86\Debug\HelloWorld y StopWatch.exe
+C:\Users\admin\Documents\Curso 2015-2016\Proyectos\1_02 HelloWorld y StopWatch\HelloWorld y StopWatch\obj\x86\Debug\HelloWorld y StopWatch.pdb
