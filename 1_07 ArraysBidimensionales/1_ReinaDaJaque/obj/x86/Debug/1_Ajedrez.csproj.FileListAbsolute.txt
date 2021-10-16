@@ -1,0 +1,9 @@
+C:\Users\mkm\Documents\Cursos y Conferencias\!PROGRAMACION\Curso 2014-2015\Proyectos\1_07 ArraysBidimensionales\1_ReinaDaJaque\bin\Debug\1_Ajedrez.exe
+C:\Users\mkm\Documents\Cursos y Conferencias\!PROGRAMACION\Curso 2014-2015\Proyectos\1_07 ArraysBidimensionales\1_ReinaDaJaque\bin\Debug\1_Ajedrez.pdb
+C:\Users\mkm\Documents\Cursos y Conferencias\!PROGRAMACION\Curso 2014-2015\Proyectos\1_07 ArraysBidimensionales\1_ReinaDaJaque\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mkm\Documents\Cursos y Conferencias\!PROGRAMACION\Curso 2014-2015\Proyectos\1_07 ArraysBidimensionales\1_ReinaDaJaque\obj\x86\Debug\1_Ajedrez.exe
+C:\Users\mkm\Documents\Cursos y Conferencias\!PROGRAMACION\Curso 2014-2015\Proyectos\1_07 ArraysBidimensionales\1_ReinaDaJaque\obj\x86\Debug\1_Ajedrez.pdb
+D:\USERS\MKM\Documents\Cursos y Conferencias\!PROGRAMACION\Curso 2015-2016\Proyectos\1_07 ArraysBidimensionales\1_ReinaDaJaque\obj\x86\Debug\1_Ajedrez.exe
+D:\USERS\MKM\Documents\Cursos y Conferencias\!PROGRAMACION\Curso 2015-2016\Proyectos\1_07 ArraysBidimensionales\1_ReinaDaJaque\obj\x86\Debug\1_Ajedrez.pdb
+D:\USERS\MKM\Documents\Cursos y Conferencias\!PROGRAMACION\Curso 2015-2016\Proyectos\1_07 ArraysBidimensionales\1_ReinaDaJaque\bin\Debug\1_Ajedrez.exe
+D:\USERS\MKM\Documents\Cursos y Conferencias\!PROGRAMACION\Curso 2015-2016\Proyectos\1_07 ArraysBidimensionales\1_ReinaDaJaque\bin\Debug\1_Ajedrez.pdb

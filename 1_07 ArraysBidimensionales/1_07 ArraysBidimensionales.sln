@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_Ajedrez", "1_ReinaDaJaque\1_Ajedrez.csproj", "{99C15CAB-8DA3-4B57-BFF9-C02F3913109B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2_Matrices", "2_Matrices\2_Matrices.csproj", "{657D6830-565D-49BF-8673-7465379A176B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99C15CAB-8DA3-4B57-BFF9-C02F3913109B}.Debug|x86.ActiveCfg = Debug|x86
+		{99C15CAB-8DA3-4B57-BFF9-C02F3913109B}.Debug|x86.Build.0 = Debug|x86
+		{99C15CAB-8DA3-4B57-BFF9-C02F3913109B}.Release|x86.ActiveCfg = Release|x86
+		{99C15CAB-8DA3-4B57-BFF9-C02F3913109B}.Release|x86.Build.0 = Release|x86
+		{657D6830-565D-49BF-8673-7465379A176B}.Debug|x86.ActiveCfg = Debug|x86
+		{657D6830-565D-49BF-8673-7465379A176B}.Debug|x86.Build.0 = Debug|x86
+		{657D6830-565D-49BF-8673-7465379A176B}.Release|x86.ActiveCfg = Release|x86
+		{657D6830-565D-49BF-8673-7465379A176B}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
