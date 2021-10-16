@@ -1,0 +1,9 @@
+C:\Users\mkm\Documents\Cursos y Conferencias\!PROGRAMACION\Curso 2014-2015\Proyectos\1_13 Recursividad 4\UbicarReinas\obj\x86\Debug\UbicarReinas.exe
+C:\Users\mkm\Documents\Cursos y Conferencias\!PROGRAMACION\Curso 2014-2015\Proyectos\1_13 Recursividad 4\UbicarReinas\obj\x86\Debug\UbicarReinas.pdb
+C:\Users\mkm\Documents\Cursos y Conferencias\!PROGRAMACION\Curso 2014-2015\Proyectos\1_13 Recursividad 4\UbicarReinas\bin\Debug\UbicarReinas.exe
+C:\Users\mkm\Documents\Cursos y Conferencias\!PROGRAMACION\Curso 2014-2015\Proyectos\1_13 Recursividad 4\UbicarReinas\bin\Debug\UbicarReinas.pdb
+C:\Users\mkm\Documents\Cursos y Conferencias\!PROGRAMACION\Curso 2014-2015\Proyectos\1_13 Recursividad 4\UbicarReinas\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\USERS\MKM\Documents\Cursos y Conferencias\!PROGRAMACION\Curso 2015-2016\Proyectos\1_14 Backtracking\UbicarReinas\obj\x86\Debug\UbicarReinas.exe
+D:\USERS\MKM\Documents\Cursos y Conferencias\!PROGRAMACION\Curso 2015-2016\Proyectos\1_14 Backtracking\UbicarReinas\obj\x86\Debug\UbicarReinas.pdb
+D:\USERS\MKM\Documents\Cursos y Conferencias\!PROGRAMACION\Curso 2015-2016\Proyectos\1_14 Backtracking\UbicarReinas\bin\Debug\UbicarReinas.exe
+D:\USERS\MKM\Documents\Cursos y Conferencias\!PROGRAMACION\Curso 2015-2016\Proyectos\1_14 Backtracking\UbicarReinas\bin\Debug\UbicarReinas.pdb

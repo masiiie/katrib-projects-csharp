@@ -1,0 +1,5 @@
+C:\Users\mkm\Documents\Cursos y Conferencias\!PROGRAMACION\Curso 2014-2015\Proyectos\1_13 Recursividad 4\UbicarReinas\bin\Debug\UbicarReinas.exe
+C:\Users\mkm\Documents\Cursos y Conferencias\!PROGRAMACION\Curso 2014-2015\Proyectos\1_13 Recursividad 4\UbicarReinas\bin\Debug\UbicarReinas.pdb
+C:\Users\mkm\Documents\Cursos y Conferencias\!PROGRAMACION\Curso 2014-2015\Proyectos\1_13 Recursividad 4\UbicarReinas\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mkm\Documents\Cursos y Conferencias\!PROGRAMACION\Curso 2014-2015\Proyectos\1_13 Recursividad 4\UbicarReinas\obj\x86\Debug\UbicarReinas.exe
+C:\Users\mkm\Documents\Cursos y Conferencias\!PROGRAMACION\Curso 2014-2015\Proyectos\1_13 Recursividad 4\UbicarReinas\obj\x86\Debug\UbicarReinas.pdb
