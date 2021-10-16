@@ -1,0 +1,15 @@
+C:\Users\mkm\Documents\Charlas y Cursos\Curso Programacion\Curso 2013-2014\Proyectos\1_3 TipoBoolYCondicionales\TipoBoolYCondicionales\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mkm\Documents\Charlas y Cursos\Curso Programacion\Curso 2013-2014\Proyectos\1_3 TipoBoolYCondicionales\TipoBoolYCondicionales\bin\Debug\Tipos Basicos y Condicionales.exe
+C:\Users\mkm\Documents\Charlas y Cursos\Curso Programacion\Curso 2013-2014\Proyectos\1_3 TipoBoolYCondicionales\TipoBoolYCondicionales\bin\Debug\Tipos Basicos y Condicionales.pdb
+C:\Users\mkm\Documents\Charlas y Cursos\Curso Programacion\Curso 2013-2014\Proyectos\1_3 TipoBoolYCondicionales\TipoBoolYCondicionales\obj\x86\Debug\Tipos Basicos y Condicionales.exe
+C:\Users\mkm\Documents\Charlas y Cursos\Curso Programacion\Curso 2013-2014\Proyectos\1_3 TipoBoolYCondicionales\TipoBoolYCondicionales\obj\x86\Debug\Tipos Basicos y Condicionales.pdb
+C:\Users\mkm\Documents\Cursos y Conferencias\!PROGRAMACION\Curso 2014-2015\Proyectos\1_03 TipoBoolYCondicionales\TipoBoolYCondicionales\obj\x86\Debug\Tipos Basicos y Condicionales.exe
+C:\Users\mkm\Documents\Cursos y Conferencias\!PROGRAMACION\Curso 2014-2015\Proyectos\1_03 TipoBoolYCondicionales\TipoBoolYCondicionales\obj\x86\Debug\Tipos Basicos y Condicionales.pdb
+C:\Users\mkm\Documents\Cursos y Conferencias\!PROGRAMACION\Curso 2014-2015\Proyectos\1_03 TipoBoolYCondicionales\TipoBoolYCondicionales\bin\Debug\Tipos Basicos y Condicionales.exe
+C:\Users\mkm\Documents\Cursos y Conferencias\!PROGRAMACION\Curso 2014-2015\Proyectos\1_03 TipoBoolYCondicionales\TipoBoolYCondicionales\bin\Debug\Tipos Basicos y Condicionales.pdb
+C:\Users\mkm\Documents\Cursos y Conferencias\!PROGRAMACION\Curso 2014-2015\Proyectos\1_03 TipoBoolYCondicionales\TipoBoolYCondicionales\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\USERS\MKM\Documents\Cursos y Conferencias\!PROGRAMACION\Curso 2015-2016\Proyectos\1_03 Tipos Basicos y Condicionales\TipoBoolYCondicionales\obj\x86\Debug\Tipos Basicos y Condicionales.exe
+D:\USERS\MKM\Documents\Cursos y Conferencias\!PROGRAMACION\Curso 2015-2016\Proyectos\1_03 Tipos Basicos y Condicionales\TipoBoolYCondicionales\obj\x86\Debug\Tipos Basicos y Condicionales.pdb
+D:\USERS\MKM\Documents\Cursos y Conferencias\!PROGRAMACION\Curso 2015-2016\Proyectos\1_03 Tipos Basicos y Condicionales\TipoBoolYCondicionales\bin\Debug\Tipos Basicos y Condicionales.exe
+D:\USERS\MKM\Documents\Cursos y Conferencias\!PROGRAMACION\Curso 2015-2016\Proyectos\1_03 Tipos Basicos y Condicionales\TipoBoolYCondicionales\bin\Debug\Tipos Basicos y Condicionales.pdb
+D:\USERS\MKM\Documents\Cursos y Conferencias\!PROGRAMACION\Curso 2015-2016\Proyectos\1_03 Tipos Basicos y Condicionales\TipoBoolYCondicionales\obj\x86\Debug\Tipos Basicos y Condicionales.csprojResolveAssemblyReference.cache

@@ -1,0 +1,22 @@
+C:\Users\mkm\Documents\Cursos y Conferencias\Curso Programacion\Curso 2010-2011\Proyectos\TipoBoolYCondicionales\TipoBoolYCondicionales\bin\Debug\TipoBoolYCondicionales.exe
+C:\Users\mkm\Documents\Cursos y Conferencias\Curso Programacion\Curso 2010-2011\Proyectos\TipoBoolYCondicionales\TipoBoolYCondicionales\bin\Debug\TipoBoolYCondicionales.pdb
+C:\Users\mkm\Documents\Cursos y Conferencias\Curso Programacion\Curso 2010-2011\Proyectos\TipoBoolYCondicionales\TipoBoolYCondicionales\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mkm\Documents\Cursos y Conferencias\Curso Programacion\Curso 2010-2011\Proyectos\TipoBoolYCondicionales\TipoBoolYCondicionales\obj\x86\Debug\TipoBoolYCondicionales.exe
+C:\Users\mkm\Documents\Cursos y Conferencias\Curso Programacion\Curso 2010-2011\Proyectos\TipoBoolYCondicionales\TipoBoolYCondicionales\obj\x86\Debug\TipoBoolYCondicionales.pdb
+C:\Users\mkm\Documents\Cursos y Conferencias\Curso Programacion\Curso 2011-2012\Proyectos\1_2 TipoBoolYCondicionales\TipoBoolYCondicionales\obj\x86\Debug\TipoBoolYCondicionales.exe
+C:\Users\mkm\Documents\Cursos y Conferencias\Curso Programacion\Curso 2011-2012\Proyectos\1_2 TipoBoolYCondicionales\TipoBoolYCondicionales\obj\x86\Debug\TipoBoolYCondicionales.pdb
+C:\Users\mkm\Documents\Cursos y Conferencias\Curso Programacion\Curso 2011-2012\Proyectos\1_2 TipoBoolYCondicionales\TipoBoolYCondicionales\bin\Debug\TipoBoolYCondicionales.exe
+C:\Users\mkm\Documents\Cursos y Conferencias\Curso Programacion\Curso 2011-2012\Proyectos\1_2 TipoBoolYCondicionales\TipoBoolYCondicionales\bin\Debug\TipoBoolYCondicionales.pdb
+C:\Users\mkm\Documents\Cursos y Conferencias\Curso Programacion\Curso 2011-2012\Proyectos\1_2 TipoBoolYCondicionales\TipoBoolYCondicionales\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mkm\Documents\Cursos y Conferencias\!Curso Prog\Curso 2012-2013\Proyectos\1_2 TipoBoolYCondicionales\TipoBoolYCondicionales\obj\x86\Debug\TipoBoolYCondicionales.exe
+C:\Users\mkm\Documents\Cursos y Conferencias\!Curso Prog\Curso 2012-2013\Proyectos\1_2 TipoBoolYCondicionales\TipoBoolYCondicionales\obj\x86\Debug\TipoBoolYCondicionales.pdb
+C:\Users\mkm\Documents\Cursos y Conferencias\!Curso Prog\Curso 2012-2013\Proyectos\1_2 TipoBoolYCondicionales\TipoBoolYCondicionales\bin\Debug\TipoBoolYCondicionales.exe
+C:\Users\mkm\Documents\Cursos y Conferencias\!Curso Prog\Curso 2012-2013\Proyectos\1_2 TipoBoolYCondicionales\TipoBoolYCondicionales\bin\Debug\TipoBoolYCondicionales.pdb
+C:\Users\mkm\Documents\Cursos y Conferencias\!Curso Prog\Curso 2012-2013\Proyectos\1_2 TipoBoolYCondicionales\TipoBoolYCondicionales\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mkm\Documents\Charlas y Cursos\Curso Programacion\Curso 2012-2013\Proyectos\1_2 TipoBoolYCondicionales\TipoBoolYCondicionales\obj\x86\Debug\TipoBoolYCondicionales.exe
+C:\Users\mkm\Documents\Charlas y Cursos\Curso Programacion\Curso 2012-2013\Proyectos\1_2 TipoBoolYCondicionales\TipoBoolYCondicionales\obj\x86\Debug\TipoBoolYCondicionales.pdb
+C:\Users\mkm\Documents\Charlas y Cursos\Curso Programacion\Curso 2012-2013\Proyectos\1_2 TipoBoolYCondicionales\TipoBoolYCondicionales\bin\Debug\TipoBoolYCondicionales.exe
+C:\Users\mkm\Documents\Charlas y Cursos\Curso Programacion\Curso 2012-2013\Proyectos\1_2 TipoBoolYCondicionales\TipoBoolYCondicionales\bin\Debug\TipoBoolYCondicionales.pdb
+C:\Users\mkm\Documents\Charlas y Cursos\Curso Programacion\Curso 2012-2013\Proyectos\1_2 TipoBoolYCondicionales\TipoBoolYCondicionales\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mkm\Documents\Charlas y Cursos\Curso Programacion\Curso 2013-2014\Proyectos\1_3 TipoBoolYCondicionales\TipoBoolYCondicionales\obj\x86\Debug\TipoBoolYCondicionales.exe
+C:\Users\mkm\Documents\Charlas y Cursos\Curso Programacion\Curso 2013-2014\Proyectos\1_3 TipoBoolYCondicionales\TipoBoolYCondicionales\obj\x86\Debug\TipoBoolYCondicionales.pdb
