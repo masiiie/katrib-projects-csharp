@@ -1,0 +1,22 @@
+C:\Users\mkm\Documents\Charlas y Cursos\Curso Programacion\Curso 2013-2014\Proyectos\1_9 Clases por Dentroy Objetos\Stopwatch\bin\Debug\01_Stopwatch.exe
+C:\Users\mkm\Documents\Charlas y Cursos\Curso Programacion\Curso 2013-2014\Proyectos\1_9 Clases por Dentroy Objetos\Stopwatch\bin\Debug\01_Stopwatch.pdb
+C:\Users\mkm\Documents\Charlas y Cursos\Curso Programacion\Curso 2013-2014\Proyectos\1_9 Clases por Dentroy Objetos\Stopwatch\bin\Debug\StopwatchLibrary.dll
+C:\Users\mkm\Documents\Charlas y Cursos\Curso Programacion\Curso 2013-2014\Proyectos\1_9 Clases por Dentroy Objetos\Stopwatch\bin\Debug\StopwatchLibrary.pdb
+C:\Users\mkm\Documents\Charlas y Cursos\Curso Programacion\Curso 2013-2014\Proyectos\1_9 Clases por Dentroy Objetos\Stopwatch\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mkm\Documents\Charlas y Cursos\Curso Programacion\Curso 2013-2014\Proyectos\1_9 Clases por Dentroy Objetos\Stopwatch\obj\x86\Debug\01_Stopwatch.exe
+C:\Users\mkm\Documents\Charlas y Cursos\Curso Programacion\Curso 2013-2014\Proyectos\1_9 Clases por Dentroy Objetos\Stopwatch\obj\x86\Debug\01_Stopwatch.pdb
+C:\Users\mkm.WEBOO\Downloads\1_9 Clases por Dentro\Stopwatch\bin\Debug\01_Stopwatch.exe
+C:\Users\mkm.WEBOO\Downloads\1_9 Clases por Dentro\Stopwatch\bin\Debug\01_Stopwatch.pdb
+C:\Users\mkm.WEBOO\Downloads\1_9 Clases por Dentro\Stopwatch\bin\Debug\StopwatchLibrary.pdb
+C:\Users\mkm.WEBOO\Downloads\1_9 Clases por Dentro\Stopwatch\obj\x86\Debug\01_Stopwatch.csprojResolveAssemblyReference.cache
+C:\Users\mkm.WEBOO\Downloads\1_9 Clases por Dentro\Stopwatch\obj\x86\Debug\01_Stopwatch.exe
+C:\Users\mkm.WEBOO\Downloads\1_9 Clases por Dentro\Stopwatch\obj\x86\Debug\01_Stopwatch.pdb
+C:\Users\mkm\Documents\Cursos y Conferencias\!PROGRAMACION\Curso 2014-2015\Proyectos\1_08 Clases por Dentro\Stopwatch\obj\x86\Debug\01_Stopwatch.exe
+C:\Users\mkm\Documents\Cursos y Conferencias\!PROGRAMACION\Curso 2014-2015\Proyectos\1_08 Clases por Dentro\Stopwatch\obj\x86\Debug\01_Stopwatch.pdb
+C:\Users\mkm\Documents\Cursos y Conferencias\!PROGRAMACION\Curso 2014-2015\Proyectos\1_08 Clases por Dentro\Stopwatch\bin\Debug\01_Stopwatch.exe
+C:\Users\mkm\Documents\Cursos y Conferencias\!PROGRAMACION\Curso 2014-2015\Proyectos\1_08 Clases por Dentro\Stopwatch\bin\Debug\01_Stopwatch.pdb
+C:\Users\mkm\Documents\Cursos y Conferencias\!PROGRAMACION\Curso 2014-2015\Proyectos\1_08 Clases por Dentro\Stopwatch\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\USERS\MKM\Documents\Cursos y Conferencias\!PROGRAMACION\Curso 2014-2015\Proyectos\1_08 Clases por Dentro\Stopwatch\obj\x86\Debug\01_Stopwatch.exe
+D:\USERS\MKM\Documents\Cursos y Conferencias\!PROGRAMACION\Curso 2014-2015\Proyectos\1_08 Clases por Dentro\Stopwatch\obj\x86\Debug\01_Stopwatch.pdb
+D:\USERS\MKM\Documents\Cursos y Conferencias\!PROGRAMACION\Curso 2014-2015\Proyectos\1_08 Clases por Dentro\Stopwatch\bin\Debug\01_Stopwatch.exe
+D:\USERS\MKM\Documents\Cursos y Conferencias\!PROGRAMACION\Curso 2014-2015\Proyectos\1_08 Clases por Dentro\Stopwatch\bin\Debug\01_Stopwatch.pdb

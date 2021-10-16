@@ -1,0 +1,10 @@
+C:\Users\mkm\Documents\Cursos y Conferencias\!Curso Prog\Curso 2012-2013\Proyectos\0_7 Clases y Objetos\Fecha\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mkm\Documents\Cursos y Conferencias\!Curso Prog\Curso 2012-2013\Proyectos\0_7 Clases y Objetos\Fecha\bin\Debug\Fecha.exe
+C:\Users\mkm\Documents\Cursos y Conferencias\!Curso Prog\Curso 2012-2013\Proyectos\0_7 Clases y Objetos\Fecha\bin\Debug\Fecha.pdb
+C:\Users\mkm\Documents\Cursos y Conferencias\!Curso Prog\Curso 2012-2013\Proyectos\0_7 Clases y Objetos\Fecha\obj\x86\Debug\Fecha.exe
+C:\Users\mkm\Documents\Cursos y Conferencias\!Curso Prog\Curso 2012-2013\Proyectos\0_7 Clases y Objetos\Fecha\obj\x86\Debug\Fecha.pdb
+C:\Users\mkm\Documents\Charlas y Cursos\Curso Programacion\Curso 2012-2013\Proyectos\1_7 Clases y Objetos\Fecha\bin\Debug\Fecha.exe
+C:\Users\mkm\Documents\Charlas y Cursos\Curso Programacion\Curso 2012-2013\Proyectos\1_7 Clases y Objetos\Fecha\bin\Debug\Fecha.pdb
+C:\Users\mkm\Documents\Charlas y Cursos\Curso Programacion\Curso 2012-2013\Proyectos\1_7 Clases y Objetos\Fecha\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mkm\Documents\Charlas y Cursos\Curso Programacion\Curso 2012-2013\Proyectos\1_7 Clases y Objetos\Fecha\obj\x86\Debug\Fecha.exe
+C:\Users\mkm\Documents\Charlas y Cursos\Curso Programacion\Curso 2012-2013\Proyectos\1_7 Clases y Objetos\Fecha\obj\x86\Debug\Fecha.pdb

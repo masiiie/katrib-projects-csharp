@@ -1,0 +1,14 @@
+C:\Users\mkm\Documents\Cursos y Conferencias\!Curso Prog\Curso 2012-2013\Proyectos\0_7 Clases y Objetos\Stopwatch\bin\Debug\Stopwatch.exe
+C:\Users\mkm\Documents\Cursos y Conferencias\!Curso Prog\Curso 2012-2013\Proyectos\0_7 Clases y Objetos\Stopwatch\bin\Debug\Stopwatch.pdb
+C:\Users\mkm\Documents\Cursos y Conferencias\!Curso Prog\Curso 2012-2013\Proyectos\0_7 Clases y Objetos\Stopwatch\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mkm\Documents\Cursos y Conferencias\!Curso Prog\Curso 2012-2013\Proyectos\0_7 Clases y Objetos\Stopwatch\obj\x86\Debug\Stopwatch.exe
+C:\Users\mkm\Documents\Cursos y Conferencias\!Curso Prog\Curso 2012-2013\Proyectos\0_7 Clases y Objetos\Stopwatch\obj\x86\Debug\Stopwatch.pdb
+C:\Users\mkm\Documents\Charlas y Cursos\Curso Programacion\Curso 2012-2013\Proyectos\1_7 Clases y Objetos\Stopwatch\obj\x86\Debug\Stopwatch.exe
+C:\Users\mkm\Documents\Charlas y Cursos\Curso Programacion\Curso 2012-2013\Proyectos\1_7 Clases y Objetos\Stopwatch\obj\x86\Debug\Stopwatch.pdb
+C:\Users\mkm\Documents\Charlas y Cursos\Curso Programacion\Curso 2012-2013\Proyectos\1_7 Clases y Objetos\Stopwatch\bin\Debug\Stopwatch.exe
+C:\Users\mkm\Documents\Charlas y Cursos\Curso Programacion\Curso 2012-2013\Proyectos\1_7 Clases y Objetos\Stopwatch\bin\Debug\Stopwatch.pdb
+C:\Users\mkm\Documents\Charlas y Cursos\Curso Programacion\Curso 2012-2013\Proyectos\1_7 Clases y Objetos\Stopwatch\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mkm\Documents\Charlas y Cursos\Curso Programacion\Curso 2012-2013\Proyectos\1_7 Clases y Objetos\Stopwatch\bin\Debug\StopwatchLibrary.dll
+C:\Users\mkm\Documents\Charlas y Cursos\Curso Programacion\Curso 2012-2013\Proyectos\1_7 Clases y Objetos\Stopwatch\bin\Debug\StopwatchLibrary.pdb
+C:\Users\mkm\Documents\Charlas y Cursos\Curso Programacion\Curso 2013-2014\Proyectos\1_9 Clases por Dentroy Objetos\Stopwatch\obj\x86\Debug\Stopwatch.exe
+C:\Users\mkm\Documents\Charlas y Cursos\Curso Programacion\Curso 2013-2014\Proyectos\1_9 Clases por Dentroy Objetos\Stopwatch\obj\x86\Debug\Stopwatch.pdb

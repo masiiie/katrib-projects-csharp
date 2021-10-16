@@ -1,0 +1,4 @@
+D:\USERS\MKM\Documents\Cursos y Conferencias\!PROGRAMACION\Curso 2014-2015\Proyectos\1_08 Clases por Dentro\02_StopwatchDLL\bin\Debug\02_StopwatchDLL.dll
+D:\USERS\MKM\Documents\Cursos y Conferencias\!PROGRAMACION\Curso 2014-2015\Proyectos\1_08 Clases por Dentro\02_StopwatchDLL\bin\Debug\02_StopwatchDLL.pdb
+D:\USERS\MKM\Documents\Cursos y Conferencias\!PROGRAMACION\Curso 2014-2015\Proyectos\1_08 Clases por Dentro\02_StopwatchDLL\obj\Debug\02_StopwatchDLL.dll
+D:\USERS\MKM\Documents\Cursos y Conferencias\!PROGRAMACION\Curso 2014-2015\Proyectos\1_08 Clases por Dentro\02_StopwatchDLL\obj\Debug\02_StopwatchDLL.pdb
