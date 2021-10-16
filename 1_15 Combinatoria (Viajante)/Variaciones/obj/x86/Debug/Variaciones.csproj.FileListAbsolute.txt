@@ -1,0 +1,12 @@
+G:\Users\mkm\Documents\Cursos y Conferencias\!Curso Prog\Curso 2012-2013\Proyectos\1_15 Combinatoria\Variaciones\bin\Debug\Variaciones.exe
+G:\Users\mkm\Documents\Cursos y Conferencias\!Curso Prog\Curso 2012-2013\Proyectos\1_15 Combinatoria\Variaciones\bin\Debug\Variaciones.pdb
+G:\Users\mkm\Documents\Cursos y Conferencias\!Curso Prog\Curso 2012-2013\Proyectos\1_15 Combinatoria\Variaciones\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Users\mkm\Documents\Cursos y Conferencias\!Curso Prog\Curso 2012-2013\Proyectos\1_15 Combinatoria\Variaciones\obj\x86\Debug\Variaciones.exe
+G:\Users\mkm\Documents\Cursos y Conferencias\!Curso Prog\Curso 2012-2013\Proyectos\1_15 Combinatoria\Variaciones\obj\x86\Debug\Variaciones.pdb
+C:\Users\mkm\Documents\Charlas y Cursos\Curso Programacion\Curso 2012-2013\Proyectos\1_15 Combinatoria\Variaciones\obj\x86\Debug\Variaciones.exe
+C:\Users\mkm\Documents\Charlas y Cursos\Curso Programacion\Curso 2012-2013\Proyectos\1_15 Combinatoria\Variaciones\obj\x86\Debug\Variaciones.pdb
+C:\Users\mkm\Documents\Charlas y Cursos\Curso Programacion\Curso 2012-2013\Proyectos\1_15 Combinatoria\Variaciones\bin\Debug\Variaciones.exe
+C:\Users\mkm\Documents\Charlas y Cursos\Curso Programacion\Curso 2012-2013\Proyectos\1_15 Combinatoria\Variaciones\bin\Debug\Variaciones.pdb
+C:\Users\mkm\Documents\Charlas y Cursos\Curso Programacion\Curso 2012-2013\Proyectos\1_15 Combinatoria\Variaciones\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mkm\Documents\!Curso Prog\Curso 2013-2014\Proyectos\1_14 Combinatoria\Variaciones\obj\x86\Debug\Variaciones.exe
+C:\Users\mkm\Documents\!Curso Prog\Curso 2013-2014\Proyectos\1_14 Combinatoria\Variaciones\obj\x86\Debug\Variaciones.pdb

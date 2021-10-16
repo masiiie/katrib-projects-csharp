@@ -1,0 +1,10 @@
+G:\Users\mkm\Documents\Cursos y Conferencias\!Curso Prog\Curso 2012-2013\Proyectos\1_15 Combinatoria\Viajante\bin\Debug\Viajante.exe
+G:\Users\mkm\Documents\Cursos y Conferencias\!Curso Prog\Curso 2012-2013\Proyectos\1_15 Combinatoria\Viajante\bin\Debug\Viajante.pdb
+G:\Users\mkm\Documents\Cursos y Conferencias\!Curso Prog\Curso 2012-2013\Proyectos\1_15 Combinatoria\Viajante\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Users\mkm\Documents\Cursos y Conferencias\!Curso Prog\Curso 2012-2013\Proyectos\1_15 Combinatoria\Viajante\obj\x86\Debug\Viajante.exe
+G:\Users\mkm\Documents\Cursos y Conferencias\!Curso Prog\Curso 2012-2013\Proyectos\1_15 Combinatoria\Viajante\obj\x86\Debug\Viajante.pdb
+C:\Users\mkm\Documents\Charlas y Cursos\Curso Programacion\Curso 2012-2013\Proyectos\1_15 Combinatoria\Viajante\obj\x86\Debug\Viajante.exe
+C:\Users\mkm\Documents\Charlas y Cursos\Curso Programacion\Curso 2012-2013\Proyectos\1_15 Combinatoria\Viajante\obj\x86\Debug\Viajante.pdb
+C:\Users\mkm\Documents\Charlas y Cursos\Curso Programacion\Curso 2012-2013\Proyectos\1_15 Combinatoria\Viajante\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mkm\Documents\Charlas y Cursos\Curso Programacion\Curso 2012-2013\Proyectos\1_15 Combinatoria\Viajante\bin\Debug\Viajante.exe
+C:\Users\mkm\Documents\Charlas y Cursos\Curso Programacion\Curso 2012-2013\Proyectos\1_15 Combinatoria\Viajante\bin\Debug\Viajante.pdb
