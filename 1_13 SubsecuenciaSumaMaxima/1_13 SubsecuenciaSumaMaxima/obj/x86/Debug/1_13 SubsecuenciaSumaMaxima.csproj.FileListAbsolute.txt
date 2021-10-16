@@ -1,0 +1,4 @@
+D:\USERS\MKM\Documents\Cursos y Conferencias\!PROGRAMACION\Curso 2015-2016\Proyectos\1_13 SubsecuenciaSumaMaxima\1_13 SubsecuenciaSumaMaxima\bin\Debug\1_13 SubsecuenciaSumaMaxima.exe
+D:\USERS\MKM\Documents\Cursos y Conferencias\!PROGRAMACION\Curso 2015-2016\Proyectos\1_13 SubsecuenciaSumaMaxima\1_13 SubsecuenciaSumaMaxima\bin\Debug\1_13 SubsecuenciaSumaMaxima.pdb
+D:\USERS\MKM\Documents\Cursos y Conferencias\!PROGRAMACION\Curso 2015-2016\Proyectos\1_13 SubsecuenciaSumaMaxima\1_13 SubsecuenciaSumaMaxima\obj\x86\Debug\1_13 SubsecuenciaSumaMaxima.exe
+D:\USERS\MKM\Documents\Cursos y Conferencias\!PROGRAMACION\Curso 2015-2016\Proyectos\1_13 SubsecuenciaSumaMaxima\1_13 SubsecuenciaSumaMaxima\obj\x86\Debug\1_13 SubsecuenciaSumaMaxima.pdb
